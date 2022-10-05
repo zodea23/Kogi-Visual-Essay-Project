@@ -1,5 +1,5 @@
 # Kogi-Visual-Essay-Project
-
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 #Image
 <param ve-image fit="cover" manifest="[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c](https://www.wilderutopia.com/wp-content/uploads/2016/01/Kogi-Village-2-by-Simon-Chaput-1024x376.jpg)">
 
