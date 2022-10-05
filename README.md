@@ -51,4 +51,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: https://joshuaproject.net/people_groups/11402/CO
+
+[^2]: https://www.culturalsurvival.org/publications/cultural-survival-quarterly/kogi-colombia-urgent-call-guardians-heart-world#:~:text=The%20Kogi%20were%20one%20of,for%20centuries%20in%20relative%20isolation.
+
+[^3]: https://www.theguardian.com/sustainable-business/colombia-kogi-environment-destruction  
