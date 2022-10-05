@@ -25,6 +25,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+# Brief History of the Kogi People
+- One of the few tribes from Columbia 
+- Moved higher in the mountains to stay in isolation for centuries 
+- Because of Spanish conquistadores in the 15th century 
+- Descendants of ancient civilization: Tayrona	
+- Since colonization, they have lost most of the mid to lower elevation of their ancestral land
+
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
@@ -35,14 +43,6 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-
-# Brief History of the Kogi People
-- One of the few tribes from Columbia 
-- Moved higher in the mountains to stay in isolation for centuries 
-- Because of Spanish conquistadores in the 15th century 
-- Descendants of ancient civilization: Tayrona	
-- Since colonization, they have lost most of the mid to lower elevation of their ancestral land
-
 
 
 ## Map
