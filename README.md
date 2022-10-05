@@ -1,7 +1,7 @@
 # Kogi-Visual-Essay-Project
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-#Image
-<param ve-image fit="cover" manifest="[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c](https://www.wilderutopia.com/wp-content/uploads/2016/01/Kogi-Village-2-by-Simon-Chaput-1024x376.jpg)">
+
+<param ve-image fit="cover" manifest="[[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c](https://www.wilderutopia.com/wp-content/uploads/2016/01/Kogi-Village-2-by-Simon-Chaput-1024x376.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwilderutopia.com%2Ftraditions%2Fkogi-peoples-lesson-from-the-heart-of-the-mountain%2F&psig=AOvVaw1hyHZk_jc2ib6o3B_p5_9N&ust=1665063457409000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKDrg_eayfoCFQAAAAAdAAAAABAD)">
 
 <param ve-config 
        title="The Kogi People of Colombia"
