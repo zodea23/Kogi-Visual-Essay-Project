@@ -41,21 +41,8 @@ _Kogi Tribesman_ is a photo by Dwayne Reilander, taken on one of the terraces at
        description="portrait by Dwayne Reilander" 
        license="public domain" 
        url="[https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg](https://upload.wikimedia.org/wikipedia/commons/3/30/Koguis_Tribesman.jpg)">
-
-
-## Map
-
-The Kogi People are in the Sierra Nevada de Santa Marta mountains in northern Colombia.
-
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       
+ ![alt text][https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5c7294ca348cd92448057774%2F1570470775976-8ZZLUNVV4YA6SP9S5UBG%2Faluna.jpg%3Fformat%3D1000w&imgrefurl=https%3A%2F%2Fdocumentaryweekly.com%2Fhome%2F2019%2F10%2F7%2Fthe-kogi-an-ancient-tribe-with-a-modern-message&tbnid=Kykl3S2NMvYQjM&vet=12ahUKEwjVp5_jv_r6AhVZo3IEHd7RAOwQMygBegQIARBn..i&docid=lwN4-szwTi9sJM&w=900&h=600&q=.jpg%20kogi%20tribe&ved=2ahUKEwjVp5_jv_r6AhVZo3IEHd7RAOwQMygBegQIARBn]
 
 # References
 
