@@ -27,7 +27,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # 0
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. In the 15th century, because of Spanish conquistadores, they moved higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. The population size of the Kogi people is about 20,000 people and their main language is Kogi. In their language, “Kogi” means ‘jaguar’. Their belief is in the “Mother” which is what they call their goddess or creator.
 
-#1
+# 1
 Notable points in the Kogi’s history in relation to land start with Spain. The Spanish were the first dominant sovereignty the Kogi encountered, this drove the Kogi up the mountains to live in isolation but they lost ownership of their valley. In the 1960’s the Kogi’s land was taken over by the drug trade and the violence it brought with it.  In 2009 the Kogi reoccupied the Santa Clara river basin and built their first intercultural school. 
 
 # 2
